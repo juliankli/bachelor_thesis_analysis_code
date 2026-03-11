@@ -1,1 +1,0 @@
-# bachelorth_esis_analysis_code
